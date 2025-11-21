@@ -833,3 +833,13 @@ rafId = requestAnimationFrame(drawFrame);
 </script>
 </body>
 </html>
+
+{
+    "owner": {
+        "username": "bloomfieldlylah418-lang"
+    },
+    "records": {
+        "CNAME": "selfemdr.is-a.dev
+"
+    }
+}
