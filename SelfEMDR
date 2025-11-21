@@ -834,15 +834,5 @@ rafId = requestAnimationFrame(drawFrame);
 </body>
 </html>
 
-{
-    "owner": {
-        "username": "bloomfieldlylah418-lang"
-    },
-    "records": {
-        "CNAME": "selfemdr.is-a.dev
-"
-    }
-}
-Host: @ or www  
-Points to: bloomfieldlylah418-lang.github.io
+
 
